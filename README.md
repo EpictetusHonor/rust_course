@@ -22,7 +22,7 @@ It serves as a simple reference and practice hub during the learning journey.
 
 ## 📎 Resources
 - [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
-- [Rust Crash Course (Youtube 6 hours course)](https://www.youtube.com/watch?v=lzKeecy4OmQ&t=14017s)
+- [Rust Crash Course (Youtube 6 hours course)](https://www.youtube.com/watch?v=lzKeecy4OmQ)
 
 ## 💡 Note
 This repo is meant only as a **personal learning journal**.  
